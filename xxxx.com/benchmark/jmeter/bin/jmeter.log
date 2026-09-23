@@ -20,3 +20,14 @@
 2026-09-23 16:11:33,660 INFO o.a.j.JMeter: IP: 192.168.208.1 Name: D-DU11-THINHNP FullName: D-DU11-THINHNP.mshome.net
 2026-09-23 16:11:33,672 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
 2026-09-23 16:11:33,876 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-09-23 16:13:08,584 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-09-23 16:13:08,585 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-09-23 16:13:08,585 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-09-23 16:13:08,585 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-09-23 16:13:08,585 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-09-23 16:13:08,585 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-09-23 16:13:51,220 INFO o.a.j.s.FileServer: Default base='D:\Learning-Java\NewProject\xxxx.com\benchmark\jmeter\bin'
+2026-09-23 16:13:51,220 INFO o.a.j.s.FileServer: Set new base='D:\Learning-Java\NewProject\xxxx.com\benchmark\jmeter\bin'
+2026-09-23 16:13:51,436 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-09-23 16:13:51,465 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-09-23 16:13:51,467 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
